@@ -9,11 +9,17 @@ tbody {
 }
 
 td {
-    background-color: white;
+    background-color: #fbfbfb;
+}
+
+th {
+    font-weight: 600;
 }
 
 table {
     border-collapse: collapse;
+    font-family: "Helvetica Now MT Text", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
 }
 
 th,
