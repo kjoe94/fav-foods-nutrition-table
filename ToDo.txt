@@ -1,0 +1,17 @@
+  CSS
+ \\\///
+
+{table}
+    - font-family
+    - font-size
+    - letter spacing
+    - border???
+
+{th/td}
+    - padding
+
+Match:
+    font
+    character size
+    spacing
+
