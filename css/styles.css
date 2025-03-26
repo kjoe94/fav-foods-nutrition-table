@@ -1,6 +1,9 @@
+body {
+    height: 100vh;
+}
+
 thead {
     border-bottom: 0.7px solid black;
-    text-align: center;
     background-color: #bebebe;
 }
 
@@ -10,16 +13,21 @@ tbody {
 
 td {
     background-color: #fbfbfb;
+    text-align: right;
+    padding-right: 0.4rem;
 }
 
 th {
     font-weight: 600;
+    text-align: left;
+    padding: 0.25rem;
 }
 
 table {
     border-collapse: collapse;
     font-family: "Helvetica Now MT Text", Helvetica, Arial, sans-serif;
-    font-size: 0.8rem;
+    font-size: 1rem;
+    min-width: 600px;
 }
 
 th,
@@ -28,3 +36,16 @@ td {
     
 }
 
+.col-1 {
+    border-right: 0.7px solid black;
+}
+
+.food-col-1 {
+    width: 140px;
+}
+
+.rating-col-1 {
+    text-align: left;
+    padding-left: 0.40rem;
+    padding-right: 0.05rem;
+}

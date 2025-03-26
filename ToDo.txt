@@ -1,6 +1,10 @@
   CSS
  \\\///
 
+correct alignment of data in "buttermilk pancakes" row
+
+organize CSS
+
 {th/td}
     - padding
 
@@ -11,5 +15,14 @@ Match:
 
 Min-Max Width
 
+Center in screen
+- use flexbox
+
+background color
+
+box shadow (like it's floating on top of background)
+
 Media Queries?? 
+
+
 
