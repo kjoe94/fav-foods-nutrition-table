@@ -1,12 +1,8 @@
   CSS
  \\\///
 
-<caption> spacing
-
 correct alignment of data in "buttermilk pancakes" row
 - research a CSS method of doing so
-
-organize CSS
 
 {th/td}
     - padding
