@@ -1,19 +1,6 @@
   CSS
  \\\///
 
-correct alignment of data in "buttermilk pancakes" row
-- research a CSS method of doing so
-
-{th/td}
-    - padding
-
-Match:
-    font
-    character size
-    spacing
-
-Min-Max Width
-
 Center in screen
 - use flexbox
 
