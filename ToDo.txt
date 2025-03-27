@@ -1,11 +1,1 @@
-  CSS
- \\\///
-
-background color
-
-box shadow (like it's floating on top of background)
-
-Media Queries?? 
-
-
 
