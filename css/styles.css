@@ -59,8 +59,14 @@ tbody {
     height: 100vh;
     align-items: center;
     justify-content: center;
+    background-image: radial-gradient(at top left, white,orange,rgb(9, 9, 187),black);
+}
 
-
+.wt-back {
+    background-color: white;
+    padding: 0 1rem .8rem .6rem;
+    box-shadow: -6px 6px 28px 10px rgba(46,40,46,1);
+ 
 }
 
 
@@ -87,8 +93,7 @@ td {
 }
 
 caption {
-    padding-bottom: .5rem;
-    padding-right: 3rem;
+    padding: 1rem 3rem .5rem 0;
 }
 
 

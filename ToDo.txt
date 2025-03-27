@@ -1,9 +1,6 @@
   CSS
  \\\///
 
-Center in screen
-- use flexbox
-
 background color
 
 box shadow (like it's floating on top of background)
