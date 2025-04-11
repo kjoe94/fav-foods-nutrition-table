@@ -1,1 +1,2 @@
-
+- Create a "before and after" type look with the 'Mockup' and the 'Coded Clone'
+- fix background scroll
